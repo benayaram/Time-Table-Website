@@ -1,0 +1,186 @@
+[
+    {
+      "date": "2024-11-09",
+      "day": "Saturday",
+      "examName": "JESUS",
+      "morningExam": false,
+      "afternoonExam": false,
+      "comments": ""
+    },
+    {
+      "date": "2024-11-10",
+      "day": "Sunday",
+      "examName": "",
+      "morningExam": false,
+      "afternoonExam": false,
+      "comments": ""
+    },
+    {
+      "date": "2024-11-11",
+      "day": "Monday",
+      "examName": "",
+      "morningExam": false,
+      "afternoonExam": false,
+      "comments": ""
+    },
+    {
+      "date": "2024-11-12",
+      "day": "Tuesday",
+      "examName": "",
+      "morningExam": false,
+      "afternoonExam": false,
+      "comments": ""
+    },
+    {
+      "date": "2024-11-13",
+      "day": "Wednesday",
+      "examName": "",
+      "morningExam": false,
+      "afternoonExam": false,
+      "comments": ""
+    },
+    {
+      "date": "2024-11-14",
+      "day": "Thursday",
+      "examName": "",
+      "morningExam": false,
+      "afternoonExam": false,
+      "comments": ""
+    },
+    {
+      "date": "2024-11-15",
+      "day": "Friday",
+      "examName": "",
+      "morningExam": false,
+      "afternoonExam": false,
+      "comments": ""
+    },
+    {
+      "date": "2024-11-16",
+      "day": "Saturday",
+      "examName": "",
+      "morningExam": false,
+      "afternoonExam": false,
+      "comments": ""
+    },
+    {
+      "date": "2024-11-17",
+      "day": "Sunday",
+      "examName": "",
+      "morningExam": false,
+      "afternoonExam": false,
+      "comments": ""
+    },
+    {
+      "date": "2024-11-18",
+      "day": "Monday",
+      "examName": "M3",
+      "morningExam": true,
+      "afternoonExam": false,
+      "comments": "From Afternoon Prepare Probability and Statistics"
+    },
+    {
+      "date": "2024-11-19",
+      "day": "Tuesday",
+      "examName": " Probability and Statistics ",
+      "morningExam": false,
+      "afternoonExam": true,
+      "comments": "Big Data Analytics preparation from night to Morning "
+    },
+    {
+      "date": "2024-11-20",
+      "day": "Wednesday",
+      "examName": " Big Data  Analytics",
+      "morningExam": false,
+      "afternoonExam": true,
+      "comments": "Prepare  Introduction to Artificial Intelligence and Data Science At night"
+    },
+    {
+      "date": "2024-11-21",
+      "day": "Thursday",
+      "examName": "",
+      "morningExam": false,
+      "afternoonExam": false,
+      "comments": "Prepare FLAT On morning and From afternoon Introduction to Artificial Intelligence and Data Science"
+    },
+    {
+      "date": "2024-11-22",
+      "day": "Friday",
+      "examName": " Introduction to Artificial  Intelligence and Data  Science ",
+      "morningExam": true,
+      "afternoonExam": false,
+      "comments": "Prepare FLAT from afternoon to morning"
+    },
+    {
+      "date": "2024-11-23",
+      "day": "Saturday",
+      "examName": "FLAT",
+      "morningExam": false,
+      "afternoonExam": true,
+      "comments": "Prepare for the Software Project Management"
+    },
+    {
+      "date": "2024-11-24",
+      "day": "Sunday",
+      "examName": "",
+      "morningExam": false,
+      "afternoonExam": false,
+      "comments": "Prepare for the Software Project Management"
+    },
+    {
+      "date": "2024-11-25",
+      "day": "Monday",
+      "examName": " Software Project Management",
+      "morningExam": false,
+      "afternoonExam": true,
+      "comments": "prepare MEFA"
+    },
+    {
+      "date": "2024-11-26",
+      "day": "Tuesday",
+      "examName": "",
+      "morningExam": false,
+      "afternoonExam": false,
+      "comments": "prepare MEFA"
+    },
+    {
+      "date": "2024-11-27",
+      "day": "Wednesday",
+      "examName": "",
+      "morningExam": false,
+      "afternoonExam": false,
+      "comments": "prepare MEFA"
+    },
+    {
+      "date": "2024-11-28",
+      "day": "Thursday",
+      "examName": "MEFA",
+      "morningExam": false,
+      "afternoonExam": true,
+      "comments": ""
+    },
+    {
+      "date": "2024-11-29",
+      "day": "Friday",
+      "examName": "",
+      "morningExam": false,
+      "afternoonExam": false,
+      "comments": ""
+    },
+    {
+      "date": "2024-11-30",
+      "day": "Saturday",
+      "examName": "",
+      "morningExam": false,
+      "afternoonExam": false,
+      "comments": ""
+    },
+    {
+      "date": "2024-12-01",
+      "day": "Sunday",
+      "examName": "",
+      "morningExam": false,
+      "afternoonExam": false,
+      "comments": ""
+    }
+  ]

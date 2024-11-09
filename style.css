@@ -1,0 +1,145 @@
+/* style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #f4f7f6;
+    color: #333;
+    margin: 0;
+}
+
+h1 {
+    margin-bottom: 15px;
+    color: #3b3f42;
+    font-size: 1.8rem;
+}
+
+button {
+    padding: 10px 15px;
+    margin: 5px;
+    font-size: 1rem;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #28a745;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+#saveButton {
+    background-color: #007bff;
+}
+
+#saveButton:hover {
+    background-color: #0056b3;
+}
+
+#scheduleTable {
+    width: 100%;
+    max-width: 1000px;
+    border-collapse: collapse;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+thead {
+    background-color: #4c9dd4;
+    color: #ffffff;
+}
+
+th, td {
+    padding: 12px 15px;
+    text-align: center;
+    border: 1px solid #e2e8f0;
+}
+
+th {
+    font-size: 1rem;
+}
+
+td {
+    width: 0%;
+    font-size: 0.9rem;
+    background-color: #ffffff;
+}
+
+td.exam-cell {
+    background-color: #ffe1a8;
+    font-weight: bold;
+}
+
+input[type="checkbox"] {
+    transform: scale(1.3);
+    accent-color: #28a745;
+}
+
+textarea, input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    font-size: 0.9rem;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    resize: vertical;
+}
+
+input[type="text"] {
+    background-color: #f9f9f9;
+}
+
+/* Responsive layout */
+/* @media (max-width: 768px) {
+    #scheduleTable, thead, tbody, th, td, tr {
+        display: block;
+        width: 100%;
+    }
+
+    th, td {
+        text-align: right;
+        padding: 10px;
+        position: relative;
+    }
+
+    th {
+        background-color: #4c9dd4;
+        color: #ffffff;
+        text-align: center;
+        padding: 10px;
+    }
+
+    td:before {
+        content: attr(data-label);
+        position: absolute;
+        left: 15px;
+        width: calc(100% - 30px);
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        font-weight: bold;
+        color: #3b3f42;
+    }
+
+    td.exam-cell {
+        background-color: #fffbec;
+    }
+
+    td {
+        border: none;
+        border-bottom: 1px solid #e2e8f0;
+    }
+}
+
+tbody tr:nth-child(odd) td {
+    background-color: #f7fafc;
+}
+
+tbody tr:hover td {
+    background-color: #e8f5fd;
+    color: #333;
+} */

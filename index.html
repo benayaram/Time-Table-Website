@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Schedule Table</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Schedule</h1>
+    <button id="toggleModeButton">Switch to Edit Mode</button>
+    <button id="saveButton" style="display:none;">Save Schedule</button>
+    <input type="file" id="loadFileInput" accept=".json" style="margin-top:10px;">
+
+    <table id="scheduleTable">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Day</th>
+                <th>Exam Name</th>
+                <th>Morning</th>
+                <th>Afternoon</th>
+                <th>Comments</th>
+            </tr>
+        </thead>
+        <tbody id="scheduleBody"></tbody>
+    </table>
+
+    <script src="script.js"></script>
+</body>
+</html>
